@@ -121,4 +121,9 @@ body {
 
 header {
 	margin-block-start: 2rem;
+	color: var(--tertiary-color);
+}
+
+footer {
+	font-size: 0.75rem;
 }
